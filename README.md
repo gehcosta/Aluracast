@@ -1,2 +1,2 @@
 # Aluracast
-Estudos com CSS Grid
+Estudos com CSS Grid pela Alura.
